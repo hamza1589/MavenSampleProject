@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="70" started-at="2021-05-06T00:16:25 EDT" finished-at="2021-05-06T00:16:25 EDT">
+    <groups>
+    </groups>
+    <test name="C:/Users/hamza/eclipse-workspace/MavenSampleProject" duration-ms="70" started-at="2021-05-06T00:16:25 EDT" finished-at="2021-05-06T00:16:25 EDT">
+      <class name="QAclickAcademy.RestAPITest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:QAclickAcademy.RestAPITest@25bbe1b6]" name="postJira" duration-ms="0" started-at="2021-05-06T00:16:25 EDT" finished-at="2021-05-06T00:16:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:QAclickAcademy.RestAPITest@25bbe1b6]" name="deleteTwitter" duration-ms="1" started-at="2021-05-06T00:16:25 EDT" finished-at="2021-05-06T00:16:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- QAclickAcademy.RestAPITest -->
+      <class name="QAclickAcademy.AppiumTest">
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:QAclickAcademy.AppiumTest@ff5b51f]" name="nativeAppAndroid" duration-ms="7" started-at="2021-05-06T00:16:25 EDT" finished-at="2021-05-06T00:16:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:QAclickAcademy.AppiumTest@ff5b51f]" name="IOSApp" duration-ms="0" started-at="2021-05-06T00:16:25 EDT" finished-at="2021-05-06T00:16:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+      </class> <!-- QAclickAcademy.AppiumTest -->
+    </test> <!-- C:/Users/hamza/eclipse-workspace/MavenSampleProject -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
